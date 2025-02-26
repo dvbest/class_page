@@ -1,0 +1,38 @@
+body {
+    font-family: Ariel, sans-serif;
+    text-align: center;
+    background-color: #009999
+;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+div {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    width: 30%;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #555;
+}
+
+p {
+    font-style: italic;
+    color: #777;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
